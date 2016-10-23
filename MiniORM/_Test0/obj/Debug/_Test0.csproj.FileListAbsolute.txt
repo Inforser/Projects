@@ -1,0 +1,6 @@
+E:\Google Drive\SU\11-DB Advanced - Entity Framework-Oct_2016\02 - ADO.NET Advanced\MiniORM\_Test0\bin\Debug\_Test0.exe.config
+E:\Google Drive\SU\11-DB Advanced - Entity Framework-Oct_2016\02 - ADO.NET Advanced\MiniORM\_Test0\bin\Debug\_Test0.exe
+E:\Google Drive\SU\11-DB Advanced - Entity Framework-Oct_2016\02 - ADO.NET Advanced\MiniORM\_Test0\bin\Debug\_Test0.pdb
+E:\Google Drive\SU\11-DB Advanced - Entity Framework-Oct_2016\02 - ADO.NET Advanced\MiniORM\_Test0\obj\Debug\_Test0.exe
+E:\Google Drive\SU\11-DB Advanced - Entity Framework-Oct_2016\02 - ADO.NET Advanced\MiniORM\_Test0\obj\Debug\_Test0.pdb
+E:\Google Drive\SU\11-DB Advanced - Entity Framework-Oct_2016\02 - ADO.NET Advanced\MiniORM\_Test0\obj\Debug\_Test0.csprojResolveAssemblyReference.cache
